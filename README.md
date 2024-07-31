@@ -11,7 +11,7 @@ CV Scoring: Scores your CV out of 5 based on the job description.
 Additional Feedback: Provides additional feedback for improving your resume.
 Installation
 Clone the repository:
-git clone https://github.com/Udaychauhan1724/SkillCred_ATS
+git clone https://github.com/parthsharma-7/skillcred
 Install the required dependencies:
 pip install -r requirements.txt
 Set up the environment variables:
